@@ -4,3 +4,4 @@ public abstract class AllZooAnimal {
         return str;
     }
 }
+//tets
